@@ -9,7 +9,7 @@
 
 #### :computer: Skills
 
-* :snake: Python language: (Django, Flask)
+* :snake: Python language: (Django, Flask, FastAPI, RESTfulAPI)
 * :dart: Dart language: (Flutter)
 * :rabbit: Go language: (gRPC)
 * :whale: Containerization software: (Docker, Docker-compose)
