@@ -1,6 +1,8 @@
 ### Hi! My name's Artyom, I'm a programmer.
 ***
 
+<img align="right" height="250px" alt="GIF" src="https://miro.medium.com/max/2160/1*9S3JhMtLGiacpNpziWGN1A.gif" />
+
 #### :school: Kazakh-American Free University
 - :mortar_board: Bachelor's degree in Information Systems. 
 - :mortar_board:  Master's degree in Information Systems. *(Studying)*
