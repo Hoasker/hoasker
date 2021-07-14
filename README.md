@@ -1,5 +1,4 @@
 ### Hi! My name's Artyom, I'm a programmer.
-***
 
 #### :school: Kazakh-American Free University
 - :mortar_board: Bachelor's degree in Information Systems. 
